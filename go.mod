@@ -1,4 +1,4 @@
-module github.com/go-cmd/cmd
+module github.com/jsnjack/cmd
 
 go 1.13
 
